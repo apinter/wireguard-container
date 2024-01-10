@@ -1,4 +1,4 @@
-name: Automated Nix flakes update
+name: Daily wireguard image build 
 on:
   push:
     branches: [ main ]
